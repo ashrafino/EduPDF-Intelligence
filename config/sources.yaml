@@ -1,0 +1,106 @@
+# Default source configurations for educational PDF scraping
+# This file defines the sources that the scraper will use to collect PDFs
+
+mit_ocw_cs:
+  name: "MIT OCW Computer Science"
+  base_url: "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/"
+  scraping_strategy: "static_html"
+  rate_limit: 2.0
+  max_depth: 3
+  pdf_patterns:
+    - '\\.pdf$'
+    - 'lecture.*\\.pdf'
+    - 'notes.*\\.pdf'
+  subject_areas:
+    - "computer_science"
+  languages:
+    - "en"
+  is_active: true
+  headers:
+    User-Agent: "Educational PDF Collector for Students"
+
+mit_ocw_math:
+  name: "MIT OCW Mathematics"
+  base_url: "https://ocw.mit.edu/courses/mathematics/"
+  scraping_strategy: "static_html"
+  rate_limit: 2.0
+  max_depth: 3
+  pdf_patterns:
+    - '\\.pdf$'
+    - 'lecture.*\\.pdf'
+    - 'problem.*\\.pdf'
+  subject_areas:
+    - "mathematics"
+  languages:
+    - "en"
+  is_active: true
+  headers:
+    User-Agent: "Educational PDF Collector for Students"
+
+stanford_cs:
+  name: "Stanford Computer Science"
+  base_url: "https://cs.stanford.edu/"
+  scraping_strategy: "static_html"
+  rate_limit: 1.5
+  max_depth: 2
+  pdf_patterns:
+    - '\\.pdf$'
+  subject_areas:
+    - "computer_science"
+  languages:
+    - "en"
+  is_active: true
+  headers:
+    User-Agent: "Educational PDF Collector for Students"
+
+berkeley_eecs:
+  name: "UC Berkeley EECS"
+  base_url: "https://eecs.berkeley.edu/resources/students/class-materials"
+  scraping_strategy: "static_html"
+  rate_limit: 1.0
+  max_depth: 2
+  pdf_patterns:
+    - '\\.pdf$'
+  subject_areas:
+    - "computer_science"
+    - "electrical_engineering"
+  languages:
+    - "en"
+  is_active: true
+  headers:
+    User-Agent: "Educational PDF Collector for Students"
+
+arxiv:
+  name: "arXiv.org"
+  base_url: "https://arxiv.org/"
+  scraping_strategy: "api_endpoint"
+  rate_limit: 3.0
+  max_depth: 1
+  pdf_patterns:
+    - '\\.pdf$'
+  subject_areas:
+    - "computer_science"
+    - "mathematics"
+    - "physics"
+  languages:
+    - "en"
+  is_active: true
+  headers:
+    User-Agent: "Educational PDF Collector for Students"
+
+inria_hal:
+  name: "INRIA HAL"
+  base_url: "https://hal.inria.fr/"
+  scraping_strategy: "static_html"
+  rate_limit: 2.0
+  max_depth: 2
+  pdf_patterns:
+    - '\\.pdf$'
+  subject_areas:
+    - "computer_science"
+  languages:
+    - "fr"
+    - "en"
+  is_active: true
+  headers:
+    User-Agent: "Educational PDF Collector for Students"

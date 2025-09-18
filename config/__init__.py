@@ -1,0 +1,1 @@
+# Configuration module for managing settings and sources

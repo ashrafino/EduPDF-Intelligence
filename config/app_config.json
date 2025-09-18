@@ -1,0 +1,50 @@
+{
+  "base_output_dir": "EducationalPDFs",
+  "log_level": "INFO",
+  "log_file": "scraper.log",
+  "processing": {
+    "max_workers": 4,
+    "max_concurrent_downloads": 10,
+    "download_timeout": 30,
+    "retry_attempts": 3,
+    "retry_delay": 1.0,
+    "max_file_size_mb": 100,
+    "min_pages": 5,
+    "max_pages": 1000
+  },
+  "filtering": {
+    "min_quality_score": 0.6,
+    "educational_keywords": [
+      "course",
+      "lecture",
+      "tutorial",
+      "textbook",
+      "syllabus",
+      "assignment",
+      "homework",
+      "exercise",
+      "solution",
+      "notes"
+    ],
+    "excluded_keywords": [
+      "advertisement",
+      "commercial",
+      "marketing",
+      "spam"
+    ],
+    "min_text_ratio": 0.1,
+    "supported_languages": [
+      "en",
+      "fr",
+      "ar",
+      "es",
+      "de"
+    ]
+  },
+  "database": {
+    "db_path": "data/metadata.db",
+    "backup_enabled": true,
+    "backup_interval_hours": 24,
+    "max_backup_files": 7
+  }
+}

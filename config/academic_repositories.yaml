@@ -1,0 +1,175 @@
+# Configuration for academic repository integrations
+
+repositories:
+  arxiv:
+    enabled: true
+    rate_limit: 3.0
+    max_results_per_search: 200
+    categories:
+      - "cs.*"  # Computer Science
+      - "math.*"  # Mathematics
+      - "stat.*"  # Statistics
+      - "physics.*"  # Physics
+      - "q-bio.*"  # Quantitative Biology
+    
+  researchgate:
+    enabled: false  # Limited due to anti-bot measures
+    rate_limit: 5.0
+    max_results_per_search: 50
+    
+  google_scholar:
+    enabled: false  # Disabled by default due to strict rate limiting
+    rate_limit: 10.0
+    max_results_per_search: 20
+    
+  institutional:
+    - name: "MIT DSpace"
+      url: "https://dspace.mit.edu/"
+      type: "dspace"
+      enabled: true
+      language: "en"
+      subjects: ["engineering", "computer_science", "mathematics"]
+      
+    - name: "Stanford Digital Repository"
+      url: "https://purl.stanford.edu/"
+      type: "generic"
+      enabled: true
+      language: "en"
+      subjects: ["all"]
+      
+    - name: "Harvard DASH"
+      url: "https://dash.harvard.edu/"
+      type: "dspace"
+      enabled: true
+      language: "en"
+      subjects: ["all"]
+
+# International source configurations
+international:
+  regions:
+    china:
+      enabled: true
+      databases:
+        - name: "CNKI"
+          url: "https://www.cnki.net/"
+          language: "zh"
+          api_available: false
+          
+        - name: "Wanfang Data"
+          url: "https://www.wanfangdata.com.cn/"
+          language: "zh"
+          api_available: false
+          
+    japan:
+      enabled: true
+      databases:
+        - name: "CiNii"
+          url: "https://ci.nii.ac.jp/"
+          language: "ja"
+          api_available: true
+          
+        - name: "J-STAGE"
+          url: "https://www.jstage.jst.go.jp/"
+          language: "ja"
+          api_available: true
+          
+    korea:
+      enabled: true
+      databases:
+        - name: "RISS"
+          url: "http://www.riss.kr/"
+          language: "ko"
+          api_available: false
+          
+    europe:
+      enabled: true
+      databases:
+        - name: "HAL"
+          url: "https://hal.archives-ouvertes.fr/"
+          language: "fr"
+          api_available: true
+          
+        - name: "SSOAR"
+          url: "https://www.ssoar.info/"
+          language: "de"
+          api_available: true
+          
+    latin_america:
+      enabled: true
+      databases:
+        - name: "SciELO"
+          url: "https://scielo.org/"
+          language: "es"
+          api_available: true
+          
+        - name: "Redalyc"
+          url: "https://www.redalyc.org/"
+          language: "es"
+          api_available: false
+
+# Language support configuration
+language_support:
+  encodings:
+    auto_detect: true
+    fallback_encoding: "utf-8"
+    
+  supported_languages:
+    - code: "en"
+      name: "English"
+      priority: 1
+      
+    - code: "zh"
+      name: "Chinese"
+      priority: 2
+      
+    - code: "ja"
+      name: "Japanese"
+      priority: 3
+      
+    - code: "ko"
+      name: "Korean"
+      priority: 4
+      
+    - code: "es"
+      name: "Spanish"
+      priority: 5
+      
+    - code: "fr"
+      name: "French"
+      priority: 6
+      
+    - code: "de"
+      name: "German"
+      priority: 7
+      
+    - code: "ar"
+      name: "Arabic"
+      priority: 8
+      
+    - code: "ru"
+      name: "Russian"
+      priority: 9
+
+# Cultural context settings
+cultural_context:
+  academic_systems:
+    east_asian:
+      countries: ["china", "japan", "korea"]
+      grade_mapping:
+        elementary: ["小学", "초등", "小學"]
+        middle: ["中学", "중학", "中學"]
+        high: ["高中", "고등학교", "高校"]
+        
+    western:
+      countries: ["usa", "uk", "canada", "australia"]
+      grade_mapping:
+        elementary: ["elementary", "primary"]
+        middle: ["middle school", "junior high"]
+        high: ["high school", "secondary"]
+        
+    arabic:
+      countries: ["saudi_arabia", "egypt", "uae"]
+      grade_mapping:
+        elementary: ["ابتدائي"]
+        middle: ["متوسط"]
+        high: ["ثانوي"]
