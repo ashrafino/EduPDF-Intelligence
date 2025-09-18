@@ -1,0 +1,20 @@
+{
+  "group_id": "related_0",
+  "group_type": "related",
+  "title": "Author Prof. John Smith",
+  "description": "",
+  "created_date": "2025-09-18T20:35:40.299213",
+  "last_updated": "2025-09-18T20:35:40.299215",
+  "pdf_count": 8,
+  "pdfs": [
+    "cs101_syllabus.pdf",
+    "cs101_lecture01_intro.pdf",
+    "cs101_assignment1.pdf",
+    "cs101_midterm_exam.pdf",
+    "cs101_lecture02_control.pdf",
+    "ml_fundamentals_vol1.pdf",
+    "software_engineering_smith.pdf",
+    "advanced_algorithms_smith.pdf"
+  ],
+  "metadata": {}
+}

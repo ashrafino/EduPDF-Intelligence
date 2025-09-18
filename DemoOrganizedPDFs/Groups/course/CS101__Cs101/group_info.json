@@ -1,0 +1,22 @@
+{
+  "group_id": "course_CS101",
+  "group_type": "course",
+  "title": "CS101: Cs101",
+  "description": "",
+  "created_date": "2025-09-18T20:35:40.300109",
+  "last_updated": "2025-09-18T20:35:40.300110",
+  "pdf_count": 5,
+  "pdfs": [
+    "cs101_lecture01_intro.pdf",
+    "cs101_lecture02_control.pdf",
+    "cs101_syllabus.pdf",
+    "cs101_assignment1.pdf",
+    "cs101_midterm_exam.pdf"
+  ],
+  "metadata": {
+    "course_code": "CS101",
+    "institution": "Tech University",
+    "academic_level": "undergraduate",
+    "instructor": ""
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "group_id": "course_MATH201",
+  "group_type": "course",
+  "title": "MATH201: - Calculus Chapter I",
+  "description": "",
+  "created_date": "2025-09-18T20:35:40.300113",
+  "last_updated": "2025-09-18T20:35:40.300114",
+  "pdf_count": 3,
+  "pdfs": [
+    "calc_chapter1_limits.pdf",
+    "calc_chapter2_derivatives.pdf",
+    "calc_chapter3_integrals.pdf"
+  ],
+  "metadata": {
+    "course_code": "MATH201",
+    "institution": "Mathematics College",
+    "academic_level": "undergraduate",
+    "instructor": ""
+  }
+}

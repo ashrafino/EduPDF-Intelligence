@@ -1,0 +1,16 @@
+{
+  "group_id": "related_2",
+  "group_type": "related",
+  "title": "Author Prof. Maria Garcia",
+  "description": "",
+  "created_date": "2025-09-18T20:35:40.299222",
+  "last_updated": "2025-09-18T20:35:40.299222",
+  "pdf_count": 4,
+  "pdfs": [
+    "calc_chapter2_derivatives.pdf",
+    "calc_chapter3_integrals.pdf",
+    "calc_chapter1_limits.pdf",
+    "algebra2_workbook.pdf"
+  ],
+  "metadata": {}
+}

@@ -73,7 +73,7 @@ berkeley_eecs:
 arxiv:
   name: "arXiv.org"
   base_url: "https://arxiv.org/"
-  scraping_strategy: "api_endpoint"
+  scraping_strategy: "api_integration"
   rate_limit: 3.0
   max_depth: 1
   pdf_patterns:

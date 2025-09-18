@@ -1,0 +1,21 @@
+{
+  "group_id": "series_12",
+  "group_type": "series",
+  "title": "Series: strategic management -",
+  "description": "",
+  "created_date": "2025-09-18T20:35:40.302655",
+  "last_updated": "2025-09-18T20:35:40.302655",
+  "pdf_count": 2,
+  "pdfs": [
+    "business_strategy_part1.pdf",
+    "business_strategy_part2.pdf"
+  ],
+  "metadata": {
+    "total_parts": 2,
+    "identified_parts": [
+      1,
+      2
+    ],
+    "is_complete": true
+  }
+}

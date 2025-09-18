@@ -1,0 +1,308 @@
+2025-09-18 16:14:04 - __main__ - INFO - Enhanced Educational PDF Scraper starting...
+2025-09-18 16:14:04 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 16:14:04 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 16:14:04 - __main__ - INFO - Scraper initialization complete. Ready for implementation of scraping components.
+2025-09-18 16:16:22 - __main__ - INFO - Enhanced Educational PDF Scraper starting...
+2025-09-18 16:16:22 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 16:16:22 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 16:16:22 - __main__ - INFO - Scraper initialization complete. Ready for implementation of scraping components.
+2025-09-18 16:23:26 - __main__ - INFO - Enhanced Educational PDF Scraper with Advanced Organization starting...
+2025-09-18 16:23:26 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 16:23:26 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 16:23:26 - scrapers.source_manager - ERROR - Error parsing source config for arxiv: 'api_integration' is not a valid ScrapingStrategy
+2025-09-18 16:23:26 - __main__ - ERROR - Error getting collection status: IntelligentCrawler.__init__() missing 1 required positional argument: 'source_config'
+2025-09-18 16:23:26 - __main__ - ERROR - Workflow failed: IntelligentCrawler.__init__() missing 1 required positional argument: 'source_config'
+2025-09-18 16:24:36 - __main__ - INFO - Enhanced Educational PDF Scraper with Advanced Organization starting...
+2025-09-18 16:24:36 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 16:24:36 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 20:35:27 - __main__ - INFO - Enhanced Educational PDF Scraper with Advanced Organization starting...
+2025-09-18 20:35:27 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 20:35:27 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 20:35:48 - __main__ - INFO - Enhanced Educational PDF Scraper with Advanced Organization starting...
+2025-09-18 20:35:48 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 20:35:48 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 20:35:48 - scrapers.source_manager - ERROR - Error parsing source config for arxiv: 'api_integration' is not a valid ScrapingStrategy
+2025-09-18 20:35:48 - processors.content_analyzer - INFO - Topic classifier trained successfully
+2025-09-18 20:35:48 - processors.content_analyzer - INFO - Topic classifier trained successfully
+2025-09-18 20:35:48 - controllers.scraper_controller - INFO - Scraper controller initialized with advanced organization system
+2025-09-18 20:35:48 - controllers.scraper_controller - ERROR - Error getting collection status: 'DatabaseManager' object has no attribute 'get_collection_stats'
+2025-09-18 20:35:48 - __main__ - INFO - Collection Status:
+2025-09-18 20:35:48 - __main__ - INFO - Processed PDFs: 0
+2025-09-18 20:35:48 - __main__ - INFO - Organization enabled: False
+2025-09-18 20:35:48 - __main__ - INFO - Workflow completed successfully!
+2025-09-18 20:36:05 - __main__ - INFO - Enhanced Educational PDF Scraper with Advanced Organization starting...
+2025-09-18 20:36:05 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 20:36:05 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 20:36:05 - scrapers.source_manager - ERROR - Error parsing source config for arxiv: 'api_integration' is not a valid ScrapingStrategy
+2025-09-18 20:36:05 - processors.content_analyzer - INFO - Topic classifier trained successfully
+2025-09-18 20:36:05 - processors.content_analyzer - INFO - Topic classifier trained successfully
+2025-09-18 20:36:05 - controllers.scraper_controller - INFO - Scraper controller initialized with advanced organization system
+2025-09-18 20:36:05 - __main__ - INFO - Starting enhanced PDF scraping with advanced organization...
+2025-09-18 20:36:05 - controllers.scraper_controller - INFO - Starting enhanced PDF scraping workflow...
+2025-09-18 20:36:05 - controllers.scraper_controller - INFO - Initializing PDF sources...
+2025-09-18 20:36:05 - controllers.scraper_controller - ERROR - Error in scraping workflow: 'SourceManager' object has no attribute 'load_sources'
+2025-09-18 20:36:05 - utils.error_handling - WARNING - [err_1758224165666_4965033328] UNKNOWN: 'SourceManager' object has no attribute 'load_sources'
+2025-09-18 20:36:05 - utils.error_handling - INFO - Non-retryable error, stopping retries: 'SourceManager' object has no attribute 'load_sources'
+2025-09-18 20:36:05 - __main__ - ERROR - Error in scraping workflow: 'SourceManager' object has no attribute 'load_sources'
+2025-09-18 20:36:05 - __main__ - ERROR - Workflow failed: 'SourceManager' object has no attribute 'load_sources'
+2025-09-18 20:40:08 - __main__ - INFO - Enhanced Educational PDF Scraper with Advanced Organization starting...
+2025-09-18 20:40:08 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 20:40:08 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 20:40:08 - scrapers.source_manager - ERROR - Error parsing source config for arxiv: 'api_integration' is not a valid ScrapingStrategy
+2025-09-18 20:40:08 - processors.content_analyzer - INFO - Topic classifier trained successfully
+2025-09-18 20:40:08 - processors.content_analyzer - INFO - Topic classifier trained successfully
+2025-09-18 20:40:08 - controllers.scraper_controller - INFO - Scraper controller initialized with advanced organization system
+2025-09-18 20:40:08 - controllers.scraper_controller - ERROR - Error getting collection status: 'DatabaseManager' object has no attribute 'get_collection_stats'
+2025-09-18 20:40:08 - __main__ - INFO - Collection Status:
+2025-09-18 20:40:08 - __main__ - INFO - Processed PDFs: 0
+2025-09-18 20:40:08 - __main__ - INFO - Organization enabled: False
+2025-09-18 20:40:08 - __main__ - INFO - Workflow completed successfully!
+2025-09-18 20:44:19 - __main__ - INFO - Enhanced Educational PDF Scraper with Advanced Organization starting...
+2025-09-18 20:44:19 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 20:44:19 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 20:44:19 - __main__ - INFO - 📊 Collection Status:
+2025-09-18 20:44:19 - __main__ - INFO -    Downloaded PDFs: 0
+2025-09-18 20:44:19 - __main__ - INFO -    Output Directory: EducationalPDFs
+2025-09-18 20:44:19 - __main__ - INFO -    Organization Data: ✅ Available
+2025-09-18 20:44:19 - __main__ - INFO -    Organized PDFs: 5
+2025-09-18 20:44:19 - __main__ - INFO -    Content Groups: 0
+2025-09-18 20:44:19 - __main__ - INFO -    Directories: computer_science, business, mathematics, Groups, physics, indexes
+2025-09-18 20:44:19 - __main__ - INFO - Workflow completed successfully!
+2025-09-18 20:44:27 - __main__ - INFO - Enhanced Educational PDF Scraper with Advanced Organization starting...
+2025-09-18 20:44:27 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 20:44:27 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 20:44:27 - processors.content_analyzer - INFO - Topic classifier trained successfully
+2025-09-18 20:44:27 - controllers.simple_scraper_controller - INFO - Simplified scraper controller initialized
+2025-09-18 20:44:27 - __main__ - INFO - 🚀 Starting complete scrape, download, and organize workflow...
+2025-09-18 20:44:27 - controllers.simple_scraper_controller - INFO - Starting complete scrape and organize workflow...
+2025-09-18 20:44:27 - controllers.simple_scraper_controller - INFO - Step 1: Scraping and downloading PDFs from internet sources...
+2025-09-18 20:44:27 - controllers.simple_scraper_controller - INFO - Scraping source: MIT OCW Computer Science
+2025-09-18 20:44:28 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from MIT OCW Computer Science
+2025-09-18 20:44:28 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from MIT OCW Computer Science
+2025-09-18 20:44:30 - controllers.simple_scraper_controller - INFO - Scraping source: MIT OCW Mathematics
+2025-09-18 20:44:30 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from MIT OCW Mathematics
+2025-09-18 20:44:30 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from MIT OCW Mathematics
+2025-09-18 20:44:32 - controllers.simple_scraper_controller - INFO - Scraping source: Stanford CS Course Materials
+2025-09-18 20:44:34 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from Stanford CS Course Materials
+2025-09-18 20:44:34 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from Stanford CS Course Materials
+2025-09-18 20:44:36 - controllers.simple_scraper_controller - INFO - Scraping source: arXiv Computer Science
+2025-09-18 20:44:37 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from arXiv Computer Science
+2025-09-18 20:44:37 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from arXiv Computer Science
+2025-09-18 20:44:39 - controllers.simple_scraper_controller - INFO - Scraping source: arXiv Mathematics
+2025-09-18 20:44:40 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from arXiv Mathematics
+2025-09-18 20:44:40 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from arXiv Mathematics
+2025-09-18 20:44:42 - controllers.simple_scraper_controller - INFO - Step 2: Processing downloaded PDFs...
+2025-09-18 20:44:42 - controllers.simple_scraper_controller - INFO - Successfully processed 0 PDFs
+2025-09-18 20:44:42 - controllers.simple_scraper_controller - INFO - Step 3: Organizing collection with advanced organization system...
+2025-09-18 20:44:42 - controllers.simple_scraper_controller - WARNING - No PDFs to organize
+2025-09-18 20:44:42 - controllers.simple_scraper_controller - INFO - Step 4: Generating final reports...
+2025-09-18 20:44:42 - controllers.simple_scraper_controller - WARNING - Error generating final report: 'NoneType' object has no attribute 'get'
+2025-09-18 20:44:42 - controllers.simple_scraper_controller - INFO - Complete workflow finished in 14.6 seconds!
+2025-09-18 20:44:42 - controllers.simple_scraper_controller - INFO - Downloaded: 0 PDFs
+2025-09-18 20:44:42 - controllers.simple_scraper_controller - INFO - Processed: 0 PDFs
+2025-09-18 20:44:42 - __main__ - INFO - Workflow completed successfully!
+2025-09-18 20:48:02 - __main__ - INFO - Enhanced Educational PDF Scraper with Advanced Organization starting...
+2025-09-18 20:48:02 - __main__ - INFO - Configuration loaded: 6 sources configured
+2025-09-18 20:48:02 - __main__ - INFO - Output directory: /Users/macbook/Documents/Scrapper PDF/EducationalPDFs
+2025-09-18 20:48:02 - processors.content_analyzer - INFO - Topic classifier trained successfully
+2025-09-18 20:48:02 - controllers.simple_scraper_controller - INFO - Simplified scraper controller initialized
+2025-09-18 20:48:02 - __main__ - INFO - 🚀 Starting complete scrape, download, and organize workflow...
+2025-09-18 20:48:02 - controllers.simple_scraper_controller - INFO - Starting complete scrape and organize workflow...
+2025-09-18 20:48:02 - controllers.simple_scraper_controller - INFO - Step 1: Scraping and downloading PDFs from internet sources...
+2025-09-18 20:48:02 - controllers.simple_scraper_controller - INFO - Scraping source: MIT OCW Computer Science
+2025-09-18 20:48:02 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from MIT OCW Computer Science
+2025-09-18 20:48:02 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from MIT OCW Computer Science
+2025-09-18 20:48:04 - controllers.simple_scraper_controller - INFO - Scraping source: MIT OCW Mathematics
+2025-09-18 20:48:05 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from MIT OCW Mathematics
+2025-09-18 20:48:05 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from MIT OCW Mathematics
+2025-09-18 20:48:07 - controllers.simple_scraper_controller - INFO - Scraping source: MIT OCW Physics
+2025-09-18 20:48:07 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from MIT OCW Physics
+2025-09-18 20:48:07 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from MIT OCW Physics
+2025-09-18 20:48:09 - controllers.simple_scraper_controller - INFO - Scraping source: MIT OCW Economics
+2025-09-18 20:48:10 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from MIT OCW Economics
+2025-09-18 20:48:10 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from MIT OCW Economics
+2025-09-18 20:48:12 - controllers.simple_scraper_controller - INFO - Scraping source: Stanford CS Course Materials
+2025-09-18 20:48:19 - controllers.simple_scraper_controller - INFO - Discovered 2 PDF URLs from Stanford CS Course Materials
+2025-09-18 20:48:20 - controllers.simple_scraper_controller - INFO - Downloaded: Stanford_CS_Course_M_sasp-program-details-student-facing-2025.pdf (108 KB)
+2025-09-18 20:48:22 - controllers.simple_scraper_controller - INFO - Downloaded: Stanford_CS_Course_M_general-advice-for-cs-phd-applicants.pdf (87 KB)
+2025-09-18 20:48:23 - controllers.simple_scraper_controller - INFO - Downloaded 2 PDFs from Stanford CS Course Materials
+2025-09-18 20:48:25 - controllers.simple_scraper_controller - INFO - Scraping source: Stanford Engineering
+2025-09-18 20:48:27 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from Stanford Engineering: 404 Client Error: Not Found for url: https://engineering.stanford.edu/students-academics/courses
+2025-09-18 20:48:27 - controllers.simple_scraper_controller - WARNING - Error scraping Stanford Engineering: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:48:27 - controllers.simple_scraper_controller - INFO - Scraping source: UC Berkeley EECS
+2025-09-18 20:48:27 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from UC Berkeley EECS: 403 Client Error: Forbidden for url: https://eecs.berkeley.edu/resources/students/class-materials
+2025-09-18 20:48:27 - controllers.simple_scraper_controller - WARNING - Error scraping UC Berkeley EECS: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:48:27 - controllers.simple_scraper_controller - INFO - Scraping source: UC Berkeley Mathematics
+2025-09-18 20:48:32 - controllers.simple_scraper_controller - INFO - Discovered 4 PDF URLs from UC Berkeley Mathematics
+2025-09-18 20:48:35 - controllers.simple_scraper_controller - INFO - Downloaded: UC_Berkeley_Mathemat_sp24_career_exploration_for_math_majors-1.pdf (1073 KB)
+2025-09-18 20:48:41 - controllers.simple_scraper_controller - INFO - Downloaded: UC_Berkeley_Mathemat_gold_folder_2023.pdf (771 KB)
+2025-09-18 20:48:42 - controllers.simple_scraper_controller - INFO - Downloaded 2 PDFs from UC Berkeley Mathematics
+2025-09-18 20:48:44 - controllers.simple_scraper_controller - INFO - Scraping source: CMU Computer Science
+2025-09-18 20:48:51 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from CMU Computer Science: 500 Server Error: Internal Server Error for url: https://www.cs.cmu.edu/courses
+2025-09-18 20:48:51 - controllers.simple_scraper_controller - WARNING - Error scraping CMU Computer Science: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:48:51 - controllers.simple_scraper_controller - INFO - Scraping source: CMU Machine Learning
+2025-09-18 20:48:54 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from CMU Machine Learning: 404 Client Error: Not Found for url: https://ml.cmu.edu/academics/courses
+2025-09-18 20:48:54 - controllers.simple_scraper_controller - WARNING - Error scraping CMU Machine Learning: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:48:54 - controllers.simple_scraper_controller - INFO - Scraping source: Harvard CS50
+2025-09-18 20:48:55 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from Harvard CS50
+2025-09-18 20:48:55 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from Harvard CS50
+2025-09-18 20:48:57 - controllers.simple_scraper_controller - INFO - Scraping source: Harvard Mathematics
+2025-09-18 20:48:58 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from Harvard Mathematics: 404 Client Error: Not Found for url: https://www.math.harvard.edu/teaching/
+2025-09-18 20:48:58 - controllers.simple_scraper_controller - WARNING - Error scraping Harvard Mathematics: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:48:58 - controllers.simple_scraper_controller - INFO - Scraping source: Princeton Computer Science
+2025-09-18 20:48:59 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from Princeton Computer Science: 404 Client Error: Not Found for url: https://www.cs.princeton.edu/courses
+2025-09-18 20:48:59 - controllers.simple_scraper_controller - WARNING - Error scraping Princeton Computer Science: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:48:59 - controllers.simple_scraper_controller - INFO - Scraping source: Princeton Mathematics
+2025-09-18 20:49:00 - controllers.simple_scraper_controller - INFO - Discovered 1 PDF URLs from Princeton Mathematics
+2025-09-18 20:49:05 - controllers.simple_scraper_controller - INFO - Downloaded: Princeton_Mathematic_grad-schedule.pdf (140 KB)
+2025-09-18 20:49:06 - controllers.simple_scraper_controller - INFO - Downloaded 1 PDFs from Princeton Mathematics
+2025-09-18 20:49:08 - controllers.simple_scraper_controller - INFO - Scraping source: UW Computer Science
+2025-09-18 20:49:11 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from UW Computer Science
+2025-09-18 20:49:11 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from UW Computer Science
+2025-09-18 20:49:13 - controllers.simple_scraper_controller - INFO - Scraping source: Georgia Tech CS
+2025-09-18 20:49:15 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from Georgia Tech CS: 404 Client Error: Not Found for url: https://www.cc.gatech.edu/academics/courses
+2025-09-18 20:49:15 - controllers.simple_scraper_controller - WARNING - Error scraping Georgia Tech CS: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:49:15 - controllers.simple_scraper_controller - INFO - Scraping source: arXiv Computer Science
+2025-09-18 20:49:15 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from arXiv Computer Science
+2025-09-18 20:49:15 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from arXiv Computer Science
+2025-09-18 20:49:17 - controllers.simple_scraper_controller - INFO - Scraping source: arXiv Mathematics
+2025-09-18 20:49:17 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from arXiv Mathematics
+2025-09-18 20:49:17 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from arXiv Mathematics
+2025-09-18 20:49:19 - controllers.simple_scraper_controller - INFO - Scraping source: arXiv Physics
+2025-09-18 20:49:20 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from arXiv Physics
+2025-09-18 20:49:20 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from arXiv Physics
+2025-09-18 20:49:22 - controllers.simple_scraper_controller - INFO - Scraping source: arXiv Statistics
+2025-09-18 20:49:22 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from arXiv Statistics
+2025-09-18 20:49:22 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from arXiv Statistics
+2025-09-18 20:49:24 - controllers.simple_scraper_controller - INFO - Scraping source: Oxford Mathematics
+2025-09-18 20:49:26 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from Oxford Mathematics: 404 Client Error: Not Found for url: https://www.maths.ox.ac.uk/study-here/undergraduate-study/lecture-notes
+2025-09-18 20:49:26 - controllers.simple_scraper_controller - WARNING - Error scraping Oxford Mathematics: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:49:26 - controllers.simple_scraper_controller - INFO - Scraping source: Cambridge Computer Science
+2025-09-18 20:49:29 - controllers.simple_scraper_controller - INFO - Discovered 1 PDF URLs from Cambridge Computer Science
+2025-09-18 20:49:29 - controllers.simple_scraper_controller - WARNING - Failed to download https://www.cl.cam.ac.uk/local/arrivals/Introduction.pdf: 404 Client Error: Not Found for url: https://www.cst.cam.ac.uk/files/introduction.pdf
+2025-09-18 20:49:29 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from Cambridge Computer Science
+2025-09-18 20:49:31 - controllers.simple_scraper_controller - INFO - Scraping source: ETH Zurich Mathematics
+2025-09-18 20:49:33 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from ETH Zurich Mathematics
+2025-09-18 20:49:33 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from ETH Zurich Mathematics
+2025-09-18 20:49:35 - controllers.simple_scraper_controller - INFO - Scraping source: University of Toronto CS
+2025-09-18 20:49:35 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from University of Toronto CS
+2025-09-18 20:49:35 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from University of Toronto CS
+2025-09-18 20:49:37 - controllers.simple_scraper_controller - INFO - Scraping source: Khan Academy
+2025-09-18 20:49:38 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from Khan Academy
+2025-09-18 20:49:38 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from Khan Academy
+2025-09-18 20:49:40 - controllers.simple_scraper_controller - INFO - Scraping source: Coursera Course Materials
+2025-09-18 20:49:44 - controllers.simple_scraper_controller - INFO - Discovered 1 PDF URLs from Coursera Course Materials
+2025-09-18 20:49:44 - controllers.simple_scraper_controller - WARNING - Failed to download https://coursera_assets.s3.amazonaws.com/footer/Modern+Slavery+Statement+(approved+March+26%2C+2025).pdf: HTTPSConnectionPool(host='coursera_assets.s3.amazonaws.com', port=443): Max retries exceeded with url: /footer/Modern+Slavery+Statement+(approved+March+26%2C+2025).pdf (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'coursera_assets.s3.amazonaws.com'. (_ssl.c:1018)")))
+2025-09-18 20:49:44 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from Coursera Course Materials
+2025-09-18 20:49:46 - controllers.simple_scraper_controller - INFO - Scraping source: edX Course Materials
+2025-09-18 20:49:47 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from edX Course Materials
+2025-09-18 20:49:47 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from edX Course Materials
+2025-09-18 20:49:49 - controllers.simple_scraper_controller - INFO - Scraping source: NIST Publications
+2025-09-18 20:49:50 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from NIST Publications
+2025-09-18 20:49:50 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from NIST Publications
+2025-09-18 20:49:52 - controllers.simple_scraper_controller - INFO - Scraping source: NASA Technical Reports
+2025-09-18 20:49:55 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from NASA Technical Reports
+2025-09-18 20:49:55 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from NASA Technical Reports
+2025-09-18 20:49:57 - controllers.simple_scraper_controller - INFO - Scraping source: NIH Publications
+2025-09-18 20:49:58 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from NIH Publications
+2025-09-18 20:49:58 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from NIH Publications
+2025-09-18 20:50:00 - controllers.simple_scraper_controller - INFO - Scraping source: PLOS ONE
+2025-09-18 20:50:01 - controllers.simple_scraper_controller - INFO - Discovered 10 PDF URLs from PLOS ONE
+2025-09-18 20:50:02 - controllers.simple_scraper_controller - INFO - Downloaded: PLOS_ONE_EditorResources_AEGuideEM.pdf (1408 KB)
+2025-09-18 20:50:04 - controllers.simple_scraper_controller - INFO - Downloaded: PLOS_ONE_EditorResources_ManuscriptInvitationsMJs.pdf (237 KB)
+2025-09-18 20:50:05 - controllers.simple_scraper_controller - INFO - Downloaded 2 PDFs from PLOS ONE
+2025-09-18 20:50:07 - controllers.simple_scraper_controller - INFO - Scraping source: Nature Open Access
+2025-09-18 20:50:09 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from Nature Open Access
+2025-09-18 20:50:09 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from Nature Open Access
+2025-09-18 20:50:11 - controllers.simple_scraper_controller - INFO - Scraping source: IEEE Xplore Open Access
+2025-09-18 20:50:12 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from IEEE Xplore Open Access
+2025-09-18 20:50:12 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from IEEE Xplore Open Access
+2025-09-18 20:50:14 - controllers.simple_scraper_controller - INFO - Scraping source: ERIC Education Database
+2025-09-18 20:50:15 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from ERIC Education Database
+2025-09-18 20:50:15 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from ERIC Education Database
+2025-09-18 20:50:17 - controllers.simple_scraper_controller - INFO - Scraping source: Directory of Open Access Journals
+2025-09-18 20:50:18 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from Directory of Open Access Journals
+2025-09-18 20:50:18 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from Directory of Open Access Journals
+2025-09-18 20:50:20 - controllers.simple_scraper_controller - INFO - Scraping source: OpenStax Textbooks
+2025-09-18 20:50:21 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from OpenStax Textbooks
+2025-09-18 20:50:21 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from OpenStax Textbooks
+2025-09-18 20:50:23 - controllers.simple_scraper_controller - INFO - Scraping source: MIT Press Open Access
+2025-09-18 20:50:29 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from MIT Press Open Access
+2025-09-18 20:50:29 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from MIT Press Open Access
+2025-09-18 20:50:31 - controllers.simple_scraper_controller - INFO - Scraping source: Mathematical Association of America
+2025-09-18 20:50:33 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from Mathematical Association of America: 404 Client Error: Not Found for url: https://maa.org/press/ebooks
+2025-09-18 20:50:33 - controllers.simple_scraper_controller - WARNING - Error scraping Mathematical Association of America: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:50:33 - controllers.simple_scraper_controller - INFO - Scraping source: American Physical Society
+2025-09-18 20:50:34 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from American Physical Society
+2025-09-18 20:50:34 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from American Physical Society
+2025-09-18 20:50:36 - controllers.simple_scraper_controller - INFO - Scraping source: ACM Digital Library
+2025-09-18 20:50:36 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from ACM Digital Library: 403 Client Error: Forbidden for url: https://dl.acm.org/
+2025-09-18 20:50:36 - controllers.simple_scraper_controller - WARNING - Error scraping ACM Digital Library: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:50:36 - controllers.simple_scraper_controller - INFO - Scraping source: Springer Open Access
+2025-09-18 20:50:36 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from Springer Open Access
+2025-09-18 20:50:36 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from Springer Open Access
+2025-09-18 20:50:38 - controllers.simple_scraper_controller - INFO - Scraping source: CERN Document Server
+2025-09-18 20:50:39 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from CERN Document Server: 403 Client Error: Forbidden for url: https://cds.cern.ch/
+2025-09-18 20:50:39 - controllers.simple_scraper_controller - WARNING - Error scraping CERN Document Server: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:50:39 - controllers.simple_scraper_controller - INFO - Scraping source: Max Planck Institute
+2025-09-18 20:50:40 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from Max Planck Institute: 404 Client Error: Not Found for url: https://www.mpg.de/publications
+2025-09-18 20:50:40 - controllers.simple_scraper_controller - WARNING - Error scraping Max Planck Institute: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:50:40 - controllers.simple_scraper_controller - INFO - Scraping source: French National Research
+2025-09-18 20:50:41 - controllers.simple_scraper_controller - INFO - Discovered 1 PDF URLs from French National Research
+2025-09-18 20:50:44 - controllers.simple_scraper_controller - INFO - Downloaded: French_National_Rese_ActuHAL-Newsletter-n_C2_B025.pdf (5462 KB)
+2025-09-18 20:50:45 - controllers.simple_scraper_controller - INFO - Downloaded 1 PDFs from French National Research
+2025-09-18 20:50:47 - controllers.simple_scraper_controller - INFO - Scraping source: Federal Reserve Publications
+2025-09-18 20:50:48 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from Federal Reserve Publications
+2025-09-18 20:50:48 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from Federal Reserve Publications
+2025-09-18 20:50:50 - controllers.simple_scraper_controller - INFO - Scraping source: World Bank Open Knowledge
+2025-09-18 20:50:51 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from World Bank Open Knowledge
+2025-09-18 20:50:51 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from World Bank Open Knowledge
+2025-09-18 20:50:53 - controllers.simple_scraper_controller - INFO - Scraping source: IMF Publications
+2025-09-18 20:51:23 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from IMF Publications: HTTPSConnectionPool(host='www.imf.org', port=443): Read timed out. (read timeout=30)
+2025-09-18 20:51:23 - controllers.simple_scraper_controller - WARNING - Error scraping IMF Publications: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:51:23 - controllers.simple_scraper_controller - INFO - Scraping source: PubMed Central
+2025-09-18 20:51:25 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from PubMed Central
+2025-09-18 20:51:25 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from PubMed Central
+2025-09-18 20:51:27 - controllers.simple_scraper_controller - INFO - Scraping source: WHO Publications
+2025-09-18 20:51:28 - controllers.simple_scraper_controller - INFO - Discovered 3 PDF URLs from WHO Publications
+2025-09-18 20:51:35 - controllers.simple_scraper_controller - INFO - Downloaded: WHO_Publications_9789240115859-eng.pdf (2396 KB)
+2025-09-18 20:51:43 - controllers.simple_scraper_controller - INFO - Downloaded: WHO_Publications_9789240111097-eng.pdf (2739 KB)
+2025-09-18 20:51:44 - controllers.simple_scraper_controller - INFO - Downloaded 2 PDFs from WHO Publications
+2025-09-18 20:51:46 - controllers.simple_scraper_controller - INFO - Scraping source: CDC Publications
+2025-09-18 20:51:47 - controllers.simple_scraper_controller - WARNING - Error discovering PDFs from CDC Publications: 403 Client Error: Forbidden for url: https://www.cdc.gov/publications/
+2025-09-18 20:51:47 - controllers.simple_scraper_controller - WARNING - Error scraping CDC Publications: cannot access local variable 'unique_pdfs' where it is not associated with a value
+2025-09-18 20:51:47 - controllers.simple_scraper_controller - INFO - Scraping source: USGS Publications
+2025-09-18 20:52:18 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from USGS Publications
+2025-09-18 20:52:18 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from USGS Publications
+2025-09-18 20:52:20 - controllers.simple_scraper_controller - INFO - Scraping source: NOAA Publications
+2025-09-18 20:52:22 - bs4.dammit - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-09-18 20:52:39 - bs4.dammit - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-09-18 20:53:03 - controllers.simple_scraper_controller - INFO - Discovered 45 PDF URLs from NOAA Publications
+2025-09-18 20:53:09 - controllers.simple_scraper_controller - INFO - Downloaded: NOAA_Publications_epa-air-cleaning-allies-activity-book-508-compliant.pdf (4077 KB)
+2025-09-18 20:53:19 - controllers.simple_scraper_controller - INFO - Downloaded: NOAA_Publications_ochp_noise_elem_book.pdf (6845 KB)
+2025-09-18 20:53:20 - controllers.simple_scraper_controller - INFO - Downloaded 2 PDFs from NOAA Publications
+2025-09-18 20:53:22 - controllers.simple_scraper_controller - INFO - Scraping source: EPA Publications
+2025-09-18 20:53:22 - controllers.simple_scraper_controller - INFO - Discovered 0 PDF URLs from EPA Publications
+2025-09-18 20:53:22 - controllers.simple_scraper_controller - INFO - Downloaded 0 PDFs from EPA Publications
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - INFO - Step 2: Processing downloaded PDFs...
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/computer_science/Stanford_CS_Course_M_sasp-program-details-student-facing-2025.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/computer_science/Stanford_CS_Course_M_general-advice-for-cs-phd-applicants.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/mathematics/UC_Berkeley_Mathemat_sp24_career_exploration_for_math_majors-1.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/mathematics/UC_Berkeley_Mathemat_gold_folder_2023.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/mathematics/Princeton_Mathematic_grad-schedule.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/science/PLOS_ONE_EditorResources_AEGuideEM.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/science/PLOS_ONE_EditorResources_ManuscriptInvitationsMJs.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/general/French_National_Rese_ActuHAL-Newsletter-n_C2_B025.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/medicine/WHO_Publications_9789240115859-eng.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/medicine/WHO_Publications_9789240111097-eng.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/earth_science/NOAA_Publications_epa-air-cleaning-allies-activity-book-508-compliant.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Failed to process EducationalPDFs/downloads/earth_science/NOAA_Publications_ochp_noise_elem_book.pdf: 'PDFMetadataExtractor' object has no attribute 'extract_metadata'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - INFO - Successfully processed 0 PDFs
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - INFO - Step 3: Organizing collection with advanced organization system...
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - No PDFs to organize
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - INFO - Step 4: Generating final reports...
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - WARNING - Error generating final report: 'NoneType' object has no attribute 'get'
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - INFO - Complete workflow finished in 322.3 seconds!
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - INFO - Downloaded: 12 PDFs
+2025-09-18 20:53:24 - controllers.simple_scraper_controller - INFO - Processed: 0 PDFs
+2025-09-18 20:53:24 - __main__ - INFO - Workflow completed successfully!

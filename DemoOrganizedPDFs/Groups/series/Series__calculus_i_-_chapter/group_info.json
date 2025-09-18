@@ -1,0 +1,23 @@
+{
+  "group_id": "series_11",
+  "group_type": "series",
+  "title": "Series: calculus i - chapter",
+  "description": "",
+  "created_date": "2025-09-18T20:35:40.302652",
+  "last_updated": "2025-09-18T20:35:40.302653",
+  "pdf_count": 3,
+  "pdfs": [
+    "calc_chapter1_limits.pdf",
+    "calc_chapter2_derivatives.pdf",
+    "calc_chapter3_integrals.pdf"
+  ],
+  "metadata": {
+    "total_parts": 3,
+    "identified_parts": [
+      1,
+      2,
+      3
+    ],
+    "is_complete": true
+  }
+}

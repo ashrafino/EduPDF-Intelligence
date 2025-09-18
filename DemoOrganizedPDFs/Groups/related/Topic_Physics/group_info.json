@@ -1,0 +1,14 @@
+{
+  "group_id": "related_4",
+  "group_type": "related",
+  "title": "Topic Physics",
+  "description": "",
+  "created_date": "2025-09-18T20:35:40.299226",
+  "last_updated": "2025-09-18T20:35:40.299226",
+  "pdf_count": 2,
+  "pdfs": [
+    "quantum_mechanics_intro.pdf",
+    "statistical_mechanics.pdf"
+  ],
+  "metadata": {}
+}

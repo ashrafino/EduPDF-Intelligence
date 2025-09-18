@@ -1,0 +1,14 @@
+{
+  "group_id": "related_5",
+  "group_type": "related",
+  "title": "Topic Analysis",
+  "description": "",
+  "created_date": "2025-09-18T20:35:40.299228",
+  "last_updated": "2025-09-18T20:35:40.299228",
+  "pdf_count": 2,
+  "pdfs": [
+    "business_strategy_part1.pdf",
+    "circuit_analysis.pdf"
+  ],
+  "metadata": {}
+}

@@ -1,0 +1,23 @@
+{
+  "group_id": "series_9",
+  "group_type": "series",
+  "title": "Series: machine learning fundamentals - volume",
+  "description": "",
+  "created_date": "2025-09-18T20:35:40.302647",
+  "last_updated": "2025-09-18T20:35:40.302648",
+  "pdf_count": 3,
+  "pdfs": [
+    "ml_fundamentals_vol1.pdf",
+    "ml_fundamentals_vol2.pdf",
+    "ml_fundamentals_vol3.pdf"
+  ],
+  "metadata": {
+    "total_parts": 3,
+    "identified_parts": [
+      1,
+      2,
+      3
+    ],
+    "is_complete": true
+  }
+}

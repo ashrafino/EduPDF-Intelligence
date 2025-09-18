@@ -1,0 +1,61 @@
+{
+  "base_path": "EducationalPDFs",
+  "hierarchical_structure": {
+    "EducationalPDFs/computer_science/undergraduate/programming": [
+      "intro_programming.pdf"
+    ],
+    "EducationalPDFs/mathematics/undergraduate/calculus": [
+      "calculus_textbook.pdf"
+    ],
+    "EducationalPDFs/physics/graduate/quantum_physics": [
+      "quantum_physics.pdf"
+    ],
+    "EducationalPDFs/computer_science/graduate/machine_learning": [
+      "machine_learning_basics.pdf"
+    ],
+    "EducationalPDFs/business/graduate/management": [
+      "business_strategy.pdf"
+    ]
+  },
+  "content_groups": [],
+  "folder_statistics": {
+    "by_subject": {
+      "computer_science": 2,
+      "mathematics": 1,
+      "physics": 1,
+      "business": 1
+    },
+    "by_level": {
+      "undergraduate": 2,
+      "graduate": 3
+    },
+    "by_topic": {
+      "programming": 1,
+      "calculus": 1,
+      "quantum_physics": 1,
+      "machine_learning": 1,
+      "management": 1
+    },
+    "total_folders": 5
+  },
+  "group_statistics": {
+    "total_groups": 0,
+    "by_type": {},
+    "by_size": {},
+    "total_pdfs_grouped": 0,
+    "average_group_size": 0
+  },
+  "organization_metadata": {
+    "total_pdfs": 5,
+    "organization_method": "hierarchical_and_grouped",
+    "created_folders": 5,
+    "created_groups": 0,
+    "settings": {
+      "create_group_folders": true,
+      "create_symbolic_links": true,
+      "generate_index_files": true
+    }
+  },
+  "created_date": "2025-09-18T20:35:27.406268",
+  "last_updated": "2025-09-18T20:35:27.406271"
+}
